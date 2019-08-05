@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ExadelInternship/static/css/main.c0818653.chunk.css",
-    "main.js": "/ExadelInternship/static/js/main.57b3bf43.chunk.js",
-    "main.js.map": "/ExadelInternship/static/js/main.57b3bf43.chunk.js.map",
+    "main.css": "/ExadelInternship/static/css/main.e285d037.chunk.css",
+    "main.js": "/ExadelInternship/static/js/main.88acc604.chunk.js",
+    "main.js.map": "/ExadelInternship/static/js/main.88acc604.chunk.js.map",
     "runtime~main.js": "/ExadelInternship/static/js/runtime~main.829156e0.js",
     "runtime~main.js.map": "/ExadelInternship/static/js/runtime~main.829156e0.js.map",
     "static/css/2.ef8e8b31.chunk.css": "/ExadelInternship/static/css/2.ef8e8b31.chunk.css",
-    "static/js/2.5d08ec2f.chunk.js": "/ExadelInternship/static/js/2.5d08ec2f.chunk.js",
-    "static/js/2.5d08ec2f.chunk.js.map": "/ExadelInternship/static/js/2.5d08ec2f.chunk.js.map",
+    "static/js/2.f4fcdb40.chunk.js": "/ExadelInternship/static/js/2.f4fcdb40.chunk.js",
+    "static/js/2.f4fcdb40.chunk.js.map": "/ExadelInternship/static/js/2.f4fcdb40.chunk.js.map",
     "index.html": "/ExadelInternship/index.html",
-    "precache-manifest.151eefb9a78364a53d5c43308ccfedb1.js": "/ExadelInternship/precache-manifest.151eefb9a78364a53d5c43308ccfedb1.js",
+    "precache-manifest.0149f742e48676833b1f7ff25d3e07f8.js": "/ExadelInternship/precache-manifest.0149f742e48676833b1f7ff25d3e07f8.js",
     "service-worker.js": "/ExadelInternship/service-worker.js",
     "static/css/2.ef8e8b31.chunk.css.map": "/ExadelInternship/static/css/2.ef8e8b31.chunk.css.map",
-    "static/css/main.c0818653.chunk.css.map": "/ExadelInternship/static/css/main.c0818653.chunk.css.map",
+    "static/css/main.e285d037.chunk.css.map": "/ExadelInternship/static/css/main.e285d037.chunk.css.map",
     "static/media/user.jpg": "/ExadelInternship/static/media/user.8d83d05e.jpg"
   }
 }

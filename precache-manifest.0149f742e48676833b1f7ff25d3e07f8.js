@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a0f08f5bf37589219a8f900e9f1020f",
+    "revision": "6c700c119c240a7dea97e6f0b7277daf",
     "url": "/ExadelInternship/index.html"
   },
   {
-    "revision": "25a640133973d13a76f3",
+    "revision": "b7cd59563e87015b699b",
     "url": "/ExadelInternship/static/css/2.ef8e8b31.chunk.css"
   },
   {
-    "revision": "608659646b88d6418f98",
-    "url": "/ExadelInternship/static/css/main.c0818653.chunk.css"
+    "revision": "4e43a7ab07e1db2f1a9f",
+    "url": "/ExadelInternship/static/css/main.e285d037.chunk.css"
   },
   {
-    "revision": "25a640133973d13a76f3",
-    "url": "/ExadelInternship/static/js/2.5d08ec2f.chunk.js"
+    "revision": "b7cd59563e87015b699b",
+    "url": "/ExadelInternship/static/js/2.f4fcdb40.chunk.js"
   },
   {
-    "revision": "608659646b88d6418f98",
-    "url": "/ExadelInternship/static/js/main.57b3bf43.chunk.js"
+    "revision": "4e43a7ab07e1db2f1a9f",
+    "url": "/ExadelInternship/static/js/main.88acc604.chunk.js"
   },
   {
     "revision": "e3fe801f8d2704363419",
